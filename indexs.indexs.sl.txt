@@ -1,5 +1,5 @@
-Dobrodošli na Liquidfeedback in vaši domaèi strani =Po celotnem sistemu boste našli takšna okenca s pomoèjo. Vsako besedilo s pomoèjo lahko izklopite s klikom na "skrij to okence" v zgornjem desnem kotu rumenega polja in ga vklopite nazaj s klikom na majhno modro vprašanje v menijski vrstici zgoraj. Spodaj najdete: - **Domov:**-- **Moja podroèja:** tematska podroèja, v katerih želite sodelovati-- **Vsa podroèja v mojih enotah:** Vsa tematska podroèja tistih organizacijskih enot, v katerih ste upravièeni do glasovanja
--- **Vse enote:** Vse organizacijske enote- **Nedavni dogodki:** Dogodki tako z vaših tematskih podroèij in tem kot tudi s celotne èasovnice
+DobrodoÂšli na Liquidfeedback in vaÂši domaÃ¨i strani =Po celotnem sistemu boste naÂšli takÂšna okenca s pomoÃ¨jo. Vsako besedilo s pomoÃ¨jo lahko izklopite s klikom na "skrij to okence" v zgornjem desnem kotu rumenega polja in ga vklopite nazaj s klikom na majhno modro vpraÂšanje v menijski vrstici zgoraj. Spodaj najdete: - **Domov:**-- **Moja podroÃ¨ja:** tematska podroÃ¨ja, v katerih Âželite sodelovati-- **Vsa podroÃ¨ja v mojih enotah:** Vsa tematska podroÃ¨ja tistih organizacijskih enot, v katerih ste upraviÃ¨eni do glasovanja
+-- **Vse enote:** Vse organizacijske enote- **Nedavni dogodki:** Dogodki tako z vaÂših tematskih podroÃ¨ij in tem kot tudi s celotne Ã¨asovnice
 - **Odprte teme:** Vse teme, ki so trenutno odprte, to pomeni nove, trenutno diskutirane, zamrznjene ali pripravljene za glasovanje
-- **Zaprte teme:** Vse teme, kjer je glasovanje zakljuèeno ali so bile odpovedane
-- **Èlani:** Vsi aktivni èlani. S klikom na posameznega èlana ga lahko dodate na svoj seznam stikov, da ga lahko pozneje pooblastite.
+- **Zaprte teme:** Vse teme, kjer je glasovanje zakljuÃ¨eno ali so bile odpovedane
+- **Ãˆlani:** Vsi aktivni Ã¨lani. S klikom na posameznega Ã¨lana ga lahko dodate na svoj seznam stikov, da ga lahko pozneje pooblastite.

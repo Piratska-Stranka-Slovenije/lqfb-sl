@@ -1,4 +1,4 @@
 =osebni seznam stikov=
-Da bi druge èlane našli hitreje, jih lahko dodate na svoj osebni seznam stikov. Na profilni strani omenjenega èlana boste našli to povezavo. Èe objavite stik, bodo drugi lahko tega èlana videli na vašem seznamu stikov. 
+Da bi druge Ã¨lane naÂšli hitreje, jih lahko dodate na svoj osebni seznam stikov. Na profilni strani omenjenega Ã¨lana boste naÂšli to povezavo. Ãˆe objavite stik, bodo drugi lahko tega Ã¨lana videli na vaÂšem seznamu stikov. 
 
-**Pomembno:** Za izboljšano lažjo uporabo bo vaš seznam stikov pokazan, ko boste dajali pooblastila.  Èe želite pooblastiti èlana/èlanico, ga/jo morate najprej dodati med stike. Èe ga/jo izbrišite s seznama, pa to ne preklièe pooblastila.
+**Pomembno:** Za izboljÂšano laÂžjo uporabo bo vaÂš seznam stikov pokazan, ko boste dajali pooblastila.  Ãˆe Âželite pooblastiti Ã¨lana/Ã¨lanico, ga/jo morate najprej dodati med stike. Ãˆe ga/jo izbriÂšite s seznama, pa to ne prekliÃ¨e pooblastila.

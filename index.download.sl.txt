@@ -20,4 +20,4 @@ Kraj objave:
 
 ######################### PREVOD #############################
 
-= Prenos podatkovne baze =Zaradi preverljivosti lahko vsi �lani prenesejo celotno podatkovno bazo. Nekateri podatki (npr. gesla in elektronski naslovi) bodo pomanjkljivi zaradi varnosti in zasebnosti podatkov. Podatki so zapisani v formatu SQL, ki se uporablja za podatkovno bazo PostgreSQL, in stisnjeni s programom gzip.
+= Prenos podatkovne baze =Zaradi preverljivosti lahko vsi Ã¨lani prenesejo celotno podatkovno bazo. Nekateri podatki (npr. gesla in elektronski naslovi) bodo pomanjkljivi zaradi varnosti in zasebnosti podatkov. Podatki so zapisani v formatu SQL, ki se uporablja za podatkovno bazo PostgreSQL, in stisnjeni s programom gzip.
