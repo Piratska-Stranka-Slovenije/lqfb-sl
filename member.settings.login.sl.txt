@@ -1,0 +1,1 @@
+Prosim izberite ime za prijavo. Ne bo na ogled drugim uporabnikom in uporabljali ga boste le za prijavo. Sistem pri imenu za prijavo zazna razliko med velikimi in malimi èrkami.

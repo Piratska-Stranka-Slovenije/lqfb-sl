@@ -1,0 +1,8 @@
+= Profile =
+
+All information entered here is voluntary. Only non-empty fields will be shown in your profile.
+
+You can change your name, login name and password in your user menu at the upper right corner under ""settings"".
+
+=Profil=
+Vse informacije, ki so vnesene na tem mestu, so prostovoljne. Samo polna polja bodo vidna v vašem profilu.  Lahko spremenite ime, uporabniško ime in geslo v uporabniškem meniju v zgornjem desnem vogalu pod »nastavitve«.

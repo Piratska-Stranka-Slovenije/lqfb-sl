@@ -1,0 +1,15 @@
+= Tematsko podroèje =
+
+Tukaj boste našli:
+- **Najnovejše dogodke:** Dogodke s tega tematskega podroèja
+- **Odprte zadeve:** Zadeve s tega tematskega podroèja, ki so trenutno odprte, tj. nove, v razpravi, zamrznjene ali na voljo za glasovanje
+- **Zaprte zadeve:** Zadeve s tega tematskega podroèja, kjer je glasovanje zakljuèeno, ali ki so bile ukinjene
+- **Udeleženci:** Možni volivci, ki so se odloèili sodelovati na tem tematskem podroèju 
+- **Pooblastila:** Nastavitve pooblastil drugih èlanov za to tematsko podroèje (skupna pooblastila in pooblastila za posamezne zadeve tu niso navedena)
+
+Dokler ste možni volivec, lahko pokažete, da želite sodelovati na tem tematskem podroèju. Kliknite na "Sodeluj pri tem podroèju", èe želite to storiti. To ima naslednje posledice: 
+- Tematsko podroèje bo prikazano na vaši domaèi strani pod razdelkom "Moja podroèja".
+- Šteje se vas kot del osnovne populacije za razprave o zadevi. To vpliva na kvorum podpornikov, ki ga morajo doseèi iniciative.
+- Poslana vam bodo e-poštna obvestila o dogodkih s tega tematskega podroèja, èe le imate primerne nastavitve obvešèanja. Nastavitve obvešèanja lahko spremenite s klikom na "Nastavitve" v uporabniškem meniju v zgornjem desnem kotu.
+
+Pooblastitev tematskega podroèja vpliva na vse zadeve, pri katerih niste nastavili drugaènega pooblastila za zadevo. Èe ne nastavite pooblastila za tematsko podroèje, je možno, da velja pooblastilo za organizacijsko enoto. Èe vas osebno zanima neka zadeva, bodo potencialne pooblastitve odložene do glasovanja. Glasovanje o zadevi ukine obstojeèo pooblastitev.

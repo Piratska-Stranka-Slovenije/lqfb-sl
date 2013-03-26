@@ -1,0 +1,1 @@
+= Odstrani pobudnika = Sebe ali drugega pobudnika lahko odstranite v primeru, da po odstranitvi ostane vsaj še en pobudnik. Èe želite opustiti celotno pobudo kot tako, izberite ,,Preklièi pobudo''.

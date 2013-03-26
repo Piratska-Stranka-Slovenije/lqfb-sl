@@ -1,0 +1,5 @@
+= Slike =
+
+ Format: JPG
+Avatar: maksimalno 48 x 48 pikslov, najbolje je, da je vaša prikazna slika kvadratne oblike: maksimalno 250 x 250 pikslov
+Veèje slike se bo zmanjšalo, vse slike se bo rekodiralo in podatke o profilu se bo zbrisalo. 

@@ -1,0 +1,1 @@
+Ta e-poštni naslov se lahko uporablja za avtomatièna sporoèila sistema, kot tudi za dostop sistemskih administratorjev. Ni na ogled drugim uporabnikom. Èe spremenite ta naslov, boste prejeli e-poštno sporoèilo s potrditveno povezavo, ki ji morate slediti.

@@ -1,0 +1,2 @@
+
+= Povabi pobudnika =Tu lahko povabite osebo iz vašega seznama stikov k enakopravnem sodelovanju pri pripravi osnutka. Povabljeni èlan mora povabilo sprejeti, da postane pobudnik (in je kot tak tudi prikazan). **Pozor:** Vsi pobudniki imajo enake pravice in lahko odstranjajo druge pobudnike.

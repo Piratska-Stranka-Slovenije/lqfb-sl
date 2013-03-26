@@ -1,0 +1,23 @@
+######################### META #############################
+
+Avtor originala: /
+Naslov originala: index.download.en
+Original: /
+Licenca: Public Domain / CC0
+
+Prevajalec: Nina Dietz
+Datum prevoda: 14. 3. 2013
+
+Proofreader(-ka): 
+Datum proofa: 
+
+Lektor(-ica):
+Datum lekture:
+
+Za objavo potrdil(-a):
+Datum objave:
+Kraj objave:
+
+######################### PREVOD #############################
+
+= Prenos podatkovne baze =Zaradi preverljivosti lahko vsi èlani prenesejo celotno podatkovno bazo. Nekateri podatki (npr. gesla in elektronski naslovi) bodo pomanjkljivi zaradi varnosti in zasebnosti podatkov. Podatki so zapisani v formatu SQL, ki se uporablja za podatkovno bazo PostgreSQL, in stisnjeni s programom gzip.
