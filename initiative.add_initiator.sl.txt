@@ -1,4 +1,4 @@
-﻿= Povabi pobudnika =
+= Povabi pobudnika =
 
 Tu lahko povabite osebo iz vašega seznama stikov k enakopravnem sodelovanju pri pripravi osnutka. Povabljeni član mora povabilo sprejeti, da postane pobudnik (in je kot tak tudi prikazan). 
 

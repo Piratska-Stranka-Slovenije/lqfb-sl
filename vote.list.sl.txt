@@ -1,4 +1,4 @@
-﻿= Glasovanje =
+= Glasovanje =
 
 Na začetku glasovanja bodo vse iniciative v vzdržnem okvirčku. Priporočamo vam, da pričnete z najljubšo in jo z miško povlečete v polje za odobritev. Nato izberite naslednjo inciativo, ki jo želite odobriti, in jo povlečite ali v isti zelen okvirček, če želite, da je stopnja odobritve enaka, ali med okvirčka za odobritev in vzdrževanje od glasovanja, če želite, da je ta iniciativa vaša druga izbira.
  Če boste nadaljevali s tem, boste sestavili seznam preferenc za iniciative, ki  jih želite odobriti, če jih povlečete v enak okvirček. Nato označite česa ste se želite vzdržati in česa niste odobrili, kar pomeni, da lahko nastavite tudi seznam preferenc  stvari, ki jih ne želite odobriti, če bi se slučajno kakšna od iniciativ nanašala na nekakšno "manjše zlo". 

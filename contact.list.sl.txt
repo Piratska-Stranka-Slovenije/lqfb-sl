@@ -1,4 +1,4 @@
-﻿=osebni seznam stikov=
+=osebni seznam stikov=
 Da bi druge člane našli hitreje, jih lahko dodate na svoj osebni seznam stikov. Na profilni strani omenjenega člana boste našli to povezavo. Če objavite stik, bodo drugi lahko tega člana videli na vašem seznamu stikov. 
 
 **Pomembno:** Za izboljšano lažjo uporabo bo vaš seznam stikov pokazan, ko boste dajali pooblastila.  Če želite pooblastiti člana/članico, ga/jo morate najprej dodati med stike. Če ga/jo izbrišite s seznama, pa to ne prekliče pooblastila.

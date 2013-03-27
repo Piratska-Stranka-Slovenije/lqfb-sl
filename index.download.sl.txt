@@ -1,3 +1,3 @@
-﻿= Prenos podatkovne baze =
+= Prenos podatkovne baze =
 
 Zaradi preverljivosti lahko vsi člani prenesejo celotno podatkovno bazo. Nekateri podatki (npr. gesla in elektronski naslovi) bodo pomanjkljivi zaradi varnosti in zasebnosti podatkov. Podatki so zapisani v formatu SQL, ki se uporablja za podatkovno bazo PostgreSQL, in stisnjeni s programom gzip.

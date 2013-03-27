@@ -1,4 +1,4 @@
-﻿= Profile =
+= Profile =
 
 All information entered here is voluntary. Only non-empty fields will be shown in your profile.
 

@@ -1,4 +1,4 @@
-﻿= Delegacijska enota =
+= Delegacijska enota =
 
 Delegacijska enota je zmeraj aktivna, če sami ne sodelujete, in delegacija na  nivoju posameznega področja ali teme ne obstaja. Zapomnite si, da delegacijske enote za nadrejene enote niso avtomatično prenesene na podenote. 
 
