@@ -1,5 +1,13 @@
-﻿Dobrodošli na Liquidfeedback in vaši domači strani =Po celotnem sistemu boste našli takšna okenca s pomočjo. Vsako besedilo s pomočjo lahko izklopite s klikom na "skrij to okence" v zgornjem desnem kotu rumenega polja in ga vklopite nazaj s klikom na majhno modro vprašanje v menijski vrstici zgoraj. Spodaj najdete: - **Domov:**-- **Moja področja:** tematska področja, v katerih želite sodelovati-- **Vsa področja v mojih enotah:** Vsa tematska področja tistih organizacijskih enot, v katerih ste upravičeni do glasovanja
--- **Vse enote:** Vse organizacijske enote- **Nedavni dogodki:** Dogodki tako z vaših tematskih področij in tem kot tudi s celotne časovnice
+﻿= Dobrodošli na Liquidfeedback in vaši domači strani =
+
+Po celotnem sistemu boste našli takšna okenca s pomočjo. Vsako besedilo s pomočjo lahko izklopite s klikom na "skrij to okence" v zgornjem desnem kotu rumenega polja in ga vklopite nazaj s klikom na majhno modro vprašanje v menijski vrstici zgoraj. 
+
+Spodaj najdete: 
+- **Domov:**
+-- **Moja področja:** tematska področja, v katerih želite sodelovati
+-- **Vsa področja v mojih enotah:** Vsa tematska področja tistih organizacijskih enot, v katerih ste upravičeni do glasovanja
+-- **Vse enote:** Vse organizacijske enote
+- **Nedavni dogodki:** Dogodki tako z vaših tematskih področij in tem kot tudi s celotne časovnice
 - **Odprte teme:** Vse teme, ki so trenutno odprte, to pomeni nove, trenutno diskutirane, zamrznjene ali pripravljene za glasovanje
 - **Zaprte teme:** Vse teme, kjer je glasovanje zaključeno ali so bile odpovedane
 - **Člani:** Vsi aktivni člani. S klikom na posameznega člana ga lahko dodate na svoj seznam stikov, da ga lahko pozneje pooblastite.

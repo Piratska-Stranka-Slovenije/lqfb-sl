@@ -1,4 +1,5 @@
 ﻿=Zadeva=
+
 Na tej strani so navedene vse pobude, ki spadajo pod to zadevo. Če kliknete na »Zanimam se«, vas bomo obravnavali tako kot člane višjih območij te zadeve, kar pomeni, da veljate za osnovne sodelujoče te zadeve. To vpliva na kvorum podpornikov, ki ga mora doseči pobuda.
 Če želite neposredno podpreti pobudo v tej zadevi ali če želite podati predloge, morate izraziti zanimanje. Kakor dolgo ste označeni kot nekdo, si se zanima za to zadevo, bodo vaše odhodne delegacije preložene, dokler faze »novo«, »diskusija« in »zamrznjen« niso zaključene in je zadeva predmet glasovanja. Kakor hitro podprete pobudo te zadeve, bo vaše zanimanje avtomatično dodano. Z odstranitvijo zanimanja boste odstranili tudi vse neposredne podpore pobudam te zadeve in ponovno aktivirali delegacijo, ki je bila prej preložena. 
 Zadeve preidejo skozi faze »nov«, »diskusija«, »zamrznjen«, »v glasovanju« in »končan«, razen kadar so že prej odpovedane zaradi pomanjkanja podpornikov pobude. 
