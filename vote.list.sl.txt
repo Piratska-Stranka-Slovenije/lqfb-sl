@@ -1,9 +1,9 @@
-= Glasovanje =
+﻿= Glasovanje =
 
-Na zaèetku glasovanja bodo vse iniciative v vzdrnem okvirèku. Priporoèamo vam, da priènete z najljubo in jo z miko povleèete v polje za odobritev. Nato izberite naslednjo inciativo, ki jo elite odobriti, in jo povleèite ali v isti zelen okvirèek, èe elite, da je stopnja odobritve enaka, ali med okvirèka za odobritev in vzdrevanje od glasovanja, èe elite, da je ta iniciativa vaa druga izbira.
- Èe boste nadaljevali s tem, boste sestavili seznam preferenc za iniciative, ki  jih elite odobriti, èe jih povleèete v enak okvirèek. Nato oznaèite èesa ste se elite vzdrati in èesa niste odobrili, kar pomeni, da lahko nastavite tudi seznam preferenc  stvari, ki jih ne elite odobriti, èe bi se sluèajno kakna od iniciativ nanaala na nekakno "manje zlo". 
+Na začetku glasovanja bodo vse iniciative v vzdržnem okvirčku. Priporočamo vam, da pričnete z najljubšo in jo z miško povlečete v polje za odobritev. Nato izberite naslednjo inciativo, ki jo želite odobriti, in jo povlečite ali v isti zelen okvirček, če želite, da je stopnja odobritve enaka, ali med okvirčka za odobritev in vzdrževanje od glasovanja, če želite, da je ta iniciativa vaša druga izbira.
+ Če boste nadaljevali s tem, boste sestavili seznam preferenc za iniciative, ki  jih želite odobriti, če jih povlečete v enak okvirček. Nato označite česa ste se želite vzdržati in česa niste odobrili, kar pomeni, da lahko nastavite tudi seznam preferenc  stvari, ki jih ne želite odobriti, če bi se slučajno kakšna od iniciativ nanašala na nekakšno "manjše zlo". 
 
-**Pomembno:** To stran zapustite s klikom na gumb "Zakljuèi s glasovanjem". Svoj glas lahko spremenite kadarkoli do konca glasovanja. Med glasovanjem se ne prikazuje rezultatov zaèasnega glasovanja.
-POdporni podatki o zadevi na pregledni strani zadeve se nanaajo na individualno iniciativo in imajo zelo omejen razpon primerjave razliènih iniciativ. Nikakor pa ne vsebuje nikakrnih informacij o preferencah. Poleg tega so tisti, ki sodelujejo v razpravi, lahko zelo drugaèni od tistih, ki pravzaprav glasujejo.
+**Pomembno:** To stran zapustite s klikom na gumb "Zaključi s glasovanjem". Svoj glas lahko spremenite kadarkoli do konca glasovanja. Med glasovanjem se ne prikazuje rezultatov začasnega glasovanja.
+POdporni podatki o zadevi na pregledni strani zadeve se nanašajo na individualno iniciativo in imajo zelo omejen razpon primerjave različnih iniciativ. Nikakor pa ne vsebuje nikakršnih informacij o preferencah. Poleg tega so tisti, ki sodelujejo v razpravi, lahko zelo drugačni od tistih, ki pravzaprav glasujejo.
 
-**Obvestilo:** Na nekaterih platformah (kot so telefoni in tablièni raèunalniki) funkcija "vleci in odloi na" z miko ni mogoèa. V teh primerih za vsako iniciativo uporabite puèice za navzgor in navzdol na levi strani vsake posamezne inicative.
+**Obvestilo:** Na nekaterih platformah (kot so telefoni in tablični računalniki) funkcija "vleci in odloži na" z miško ni mogoča. V teh primerih za vsako iniciativo uporabite puščice za navzgor in navzdol na levi strani vsake posamezne inicative.

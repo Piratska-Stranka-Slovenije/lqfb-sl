@@ -1,15 +1,15 @@
-= Tematsko podroÃ¨je =
+﻿= Tematsko področje =
 
-Tukaj boste naÂli:
-- **NajnovejÂe dogodke:** Dogodke s tega tematskega podroÃ¨ja
-- **Odprte zadeve:** Zadeve s tega tematskega podroÃ¨ja, ki so trenutno odprte, tj. nove, v razpravi, zamrznjene ali na voljo za glasovanje
-- **Zaprte zadeve:** Zadeve s tega tematskega podroÃ¨ja, kjer je glasovanje zakljuÃ¨eno, ali ki so bile ukinjene
-- **UdeleÂenci:** MoÂni volivci, ki so se odloÃ¨ili sodelovati na tem tematskem podroÃ¨ju 
-- **Pooblastila:** Nastavitve pooblastil drugih Ã¨lanov za to tematsko podroÃ¨je (skupna pooblastila in pooblastila za posamezne zadeve tu niso navedena)
+Tukaj boste našli:
+- **Najnovejše dogodke:** Dogodke s tega tematskega področja
+- **Odprte zadeve:** Zadeve s tega tematskega področja, ki so trenutno odprte, tj. nove, v razpravi, zamrznjene ali na voljo za glasovanje
+- **Zaprte zadeve:** Zadeve s tega tematskega področja, kjer je glasovanje zaključeno, ali ki so bile ukinjene
+- **Udeleženci:** Možni volivci, ki so se odločili sodelovati na tem tematskem področju 
+- **Pooblastila:** Nastavitve pooblastil drugih članov za to tematsko področje (skupna pooblastila in pooblastila za posamezne zadeve tu niso navedena)
 
-Dokler ste moÂni volivec, lahko pokaÂete, da Âelite sodelovati na tem tematskem podroÃ¨ju. Kliknite na "Sodeluj pri tem podroÃ¨ju", Ã¨e Âelite to storiti. To ima naslednje posledice: 
-- Tematsko podroÃ¨je bo prikazano na vaÂi domaÃ¨i strani pod razdelkom "Moja podroÃ¨ja".
-- Âteje se vas kot del osnovne populacije za razprave o zadevi. To vpliva na kvorum podpornikov, ki ga morajo doseÃ¨i iniciative.
-- Poslana vam bodo e-poÂtna obvestila o dogodkih s tega tematskega podroÃ¨ja, Ã¨e le imate primerne nastavitve obveÂÃ¨anja. Nastavitve obveÂÃ¨anja lahko spremenite s klikom na "Nastavitve" v uporabniÂkem meniju v zgornjem desnem kotu.
+Dokler ste možni volivec, lahko pokažete, da želite sodelovati na tem tematskem področju. Kliknite na "Sodeluj pri tem področju", če želite to storiti. To ima naslednje posledice: 
+- Tematsko področje bo prikazano na vaši domači strani pod razdelkom "Moja področja".
+- Šteje se vas kot del osnovne populacije za razprave o zadevi. To vpliva na kvorum podpornikov, ki ga morajo doseči iniciative.
+- Poslana vam bodo e-poštna obvestila o dogodkih s tega tematskega področja, če le imate primerne nastavitve obveščanja. Nastavitve obveščanja lahko spremenite s klikom na "Nastavitve" v uporabniškem meniju v zgornjem desnem kotu.
 
-Pooblastitev tematskega podroÃ¨ja vpliva na vse zadeve, pri katerih niste nastavili drugaÃ¨nega pooblastila za zadevo. Ãe ne nastavite pooblastila za tematsko podroÃ¨je, je moÂno, da velja pooblastilo za organizacijsko enoto. Ãe vas osebno zanima neka zadeva, bodo potencialne pooblastitve odloÂene do glasovanja. Glasovanje o zadevi ukine obstojeÃ¨o pooblastitev.
+Pooblastitev tematskega področja vpliva na vse zadeve, pri katerih niste nastavili drugačnega pooblastila za zadevo. Če ne nastavite pooblastila za tematsko področje, je možno, da velja pooblastilo za organizacijsko enoto. Če vas osebno zanima neka zadeva, bodo potencialne pooblastitve odložene do glasovanja. Glasovanje o zadevi ukine obstoječo pooblastitev.
